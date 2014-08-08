@@ -1,11 +1,5 @@
 demo
-====
-<<<<<<< HEAD
-<<<<<<< HEAD
-oho ist ein Testprojekt
-und noch was
-=======
-das hier ist ein Testprojekt
+so passt es jetzt
 =======
 hier was neues ist ein Testprojekt
 >>>>>>> master
